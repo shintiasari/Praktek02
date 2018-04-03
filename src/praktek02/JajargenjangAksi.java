@@ -7,5 +7,6 @@ public class JajargenjangAksi {
         j1.tinggi = 4;
         
         j1.cetakinfo();
+        System.out.println("Luas jajargenjang = "+j1.hitungLuas());
     }
 }

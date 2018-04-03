@@ -10,4 +10,10 @@ public class Jajargenjang {
         System.out.println("======================");
     }
     
+    
+    double hitungLuas(){
+        double luas; 
+        luas=alas*tinggi;
+        return luas;
+    }
 }
