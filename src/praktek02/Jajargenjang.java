@@ -3,6 +3,11 @@ public class Jajargenjang {
     double alas;
     double tinggi;
     
+    public Jajargenjang() {
+        alas=10;
+        tinggi=4;
+    }
+        
     void cetakinfo(){
         System.out.println("======================");
         System.out.println("Alas    : "+alas);
